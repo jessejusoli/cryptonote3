@@ -1,3 +1,19 @@
+## BraDescOCoin or Bradescocoin - BRAzilian DEcentralized System  - Central Operations - COIN - Project
+### It is a cryptocurrency project based on cryptnote, which was initially idealized by BitCoin.
+
+Bradescocoin, is a crypto coin based on "cryptonote", but with innumerable doubts, which make a huge difference, and becomes really advantageous for the function of a fashion similar to physical money, such as:
+
+* Scarcity model, 10,000% more than bitcoin | BitCoin 21 million coins / Bradescocoin 210 thousand coins - (Everything that is scarce becomes valuable, for example, diamonds, pearls, gold, silver, etc. Unlike the beach area, sea water, etc.)
+
+* Simplified and easy mining - With few clicks you start mining, no secrets, difficult commands, you just need a wallet (address) and our application (software / core).
+
+* Mining / Fair, for all both CPU and GPU - (CPU = GPU, due to the technology we use, both processors in our mining have similar results.
+
+* The future now - Operation in turbo - The evolution of 7 years of bitcoin, will occur in 12 months in Bradescocoin. This will be due to many factors, but great proof of this is our "EMISSION_SPEED_FACTOR = 18", "DIFFICULTY_TARGET = 60" and "MONEY_SUPPLY = 210,000". The bitcoin route was 20,000 bitcoins in 2010 (worth 30 dollars, or 1 bitcoin for USD0.0015 / 0.15 US cents) to more than USD4000.00 in 2017. It went up to USD5,000.00, by a single bitcoin coin.
+
+* High level of protection against attacks
+
+
 This is the reference code for [CryptoNote](https://cryptonote.org) cryptocurrency protocol.
 
 * Launch your own CryptoNote currency: [CryptoNote Starter](https://cryptonotestarter.org/)
